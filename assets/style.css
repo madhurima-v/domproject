@@ -1,0 +1,15 @@
+.red,
+.green{
+        background-color: black;
+        color:white;
+        width: 100px;
+        height: 40px;
+}
+
+.one{
+        color: red;
+}
+
+.two{
+        color: green;
+}
